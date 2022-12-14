@@ -1,0 +1,20 @@
+
+body {
+    background-color: #CFF5E7;
+}
+
+h1{
+    color: rgb(255, 0, 17);
+}
+
+h3{
+    color:rgb(255, 85, 0);
+}
+
+hr{
+
+    border-style: dotted none none none;
+    width: 20%;
+    border-color:rgb(66, 0, 248);
+    border-width: 5px;
+}
